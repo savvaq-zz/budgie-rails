@@ -1,0 +1,2 @@
+class CustomTransaction < ApplicationRecord
+end
