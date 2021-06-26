@@ -1,14 +1,6 @@
 # Additional translations at https://github.com/heartcombo/devise/wiki/I18n
 
 en:
-  activerecord:
-    errors:
-      models:
-        user:
-          attributes:
-            password:
-              confirmation: "does not match"
-              too_short: "is too short (minimum is %{count} characters)"
   devise:
     confirmations:
       confirmed: "Your email address has been successfully confirmed."
