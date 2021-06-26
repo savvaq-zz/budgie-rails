@@ -11,6 +11,8 @@
 /db/*.sqlite3
 /db/*.sqlite3-journal
 /db/*.sqlite3-*
+/db/data/**/*
+!/db/data/.keep
 
 # Ignore all logfiles and tempfiles.
 /log/*
@@ -41,3 +43,5 @@ yarn-debug.log*
 .yarn-integrity
 
 .env
+
+.vscode
